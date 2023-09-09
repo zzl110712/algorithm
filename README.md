@@ -1,6 +1,5 @@
 # algorithm
 mainly used for recording and practicing
-下载安装TortoiseGit https://blog.csdn.net/u012841414/article/details/123393104
 
 # 数据结构
 计算机存储、组织数据的方式
@@ -68,3 +67,5 @@ mainly used for recording and practicing
 
 
 ++*笔记由日常学习整理，有任何问题欢迎讨论*++
+
+下载安装TortoiseGit https://blog.csdn.net/u012841414/article/details/123393104
